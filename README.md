@@ -8,6 +8,14 @@ This project involved data cleaning, data visualization, feature engineering, an
 
 ![image](images/scatter_plot.png)
 
-Logistic Regression Model output: The source data is vintage 2011. There have been nine years of Hall of Fame inductees not yet captured by the data set. The model accurately predicted the first 10 inductees.
+**Logistic Regression Model**
+
+The source data is vintage 2011. Of 3744 players tracked in data set, only 100 players have been inducted to the Hall of Fame. There have been nine years of Hall of Fame inductees not yet captured by the data set. 
+
+The key awards captured to determine Hall of Fame probability included Most Valuable Player, Rookie of the Year, Finals MVP, All-NBA First Team, and All-Defensive First Team.
+Relevant statistics to classify Hall of Fame players included total career points, points per game, rebounds per game, assists per game, total games played and All Star Game appearances.
+
 
 ![kobe](images/prediction_output.png)
+
+The model accurately predicted the first 10 inductees, sorted by highest probability with Kobe Bryant at the top. Kobe Bryant was inducted into the Hall of Fame in 2020. 
