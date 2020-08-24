@@ -7,6 +7,7 @@ Source Data: [Kaggle - Open Source Sports] (https://www.kaggle.com/open-source-s
 This project involved data cleaning, data visualization, feature engineering, and logistic regression model building.
 
 **Data Cleaning**
+First, we cleaned the source data files, matching column fields and creating a Player Statistics dictionary that tracked a player's stats and awards won.
 
 ![](images/output3.png)
 
