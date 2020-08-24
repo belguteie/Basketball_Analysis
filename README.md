@@ -8,7 +8,7 @@ This project involved data cleaning, data visualization, feature engineering, an
 
 **Data Cleaning**
 
-![](images/prediction_output3.png)
+![](images/output3.png)
 
 From the below scatter plots, we can see Hall of Fame-inducted players score more on average and play more minutes than players that have not been inducted into the Hall of Fame.
 
