@@ -7,9 +7,12 @@ Source Data: [Kaggle - Open Source Sports] (https://www.kaggle.com/open-source-s
 This project involved data cleaning, data visualization, feature engineering, and logistic regression model building.
 
 **Data Cleaning**
-First, we cleaned the source data files, matching column fields and creating a Player Statistics dictionary that tracked a player's stats and awards won.
+<br> First process involved data cleaning of the source data files, matching column fields and creating a Player Statistics dictionary that tracked a player's stats and awards won.
 
 ![](images/output3.png)
+
+**Data Visualization**
+<br> Next, data visualization of the key indicators through histograms and scatter-plots.
 
 From the below scatter plots, we can see Hall of Fame-inducted players score more on average and play more minutes than players that have not been inducted into the Hall of Fame.
 
