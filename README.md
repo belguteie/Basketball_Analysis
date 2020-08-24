@@ -6,4 +6,4 @@ Source Data: [Kaggle - Open Source Sports] (https://www.kaggle.com/open-source-s
 
 This project involved data cleaning, data visualization, feature engineering, and logistic regression model building.
 
-!(https://github.com/belguteie/Basketball_Analysis/blob/master/images/scatter_plot.png)
+!(images/scatter_plot.png)
